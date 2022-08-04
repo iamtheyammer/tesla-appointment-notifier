@@ -1,0 +1,13 @@
+{
+  "vin": "myvinhere",
+  "dates": [
+    "08/04/2022",
+    "08/05/2022"
+  ],
+  "auto_schedule": true,
+  "contact": {
+    "emailAddress": "elon@tesla.com",
+    "phoneNumber": "1231231234"
+  },
+  "check_interval_seconds": 30
+}

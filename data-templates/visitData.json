@@ -1,0 +1,21 @@
+{
+  "serviceVisitId": "1234567",
+  "latitude": "12.3456",
+  "longitude": "-12.3456",
+  "countryCode": "US",
+  "narratives": {
+    "infotainmentSoftwareUpdate": "Customer states: Software Update - My software is broken :(",
+    "nonAppActivity2": "Check tire pressure and condition"
+  },
+  "activities": [{
+    "activityID": 31742770,
+    "symptomKey": "infotainmentSoftwareUpdate",
+    "narrative": "Customer states: Software Update - My software is broken :(",
+    "activityType": "COMMON"
+  }, {
+    "activityID": 31742772,
+    "narrative": "Customer states: Service Activity - Check tire pressure and condition",
+    "activityType": "COMMON"
+  }],
+  "isRescheduleOnly": true
+}
